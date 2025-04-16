@@ -10,7 +10,7 @@
 ---
 <p align="center">
   <a href="https://github.com/Awais-star-a11y">
-    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=AWAIS-MD-+v3.0+MultiDevice;Developed+by+AwaisMd;Give+star+and+forks+this+Repo+🌟" alt="AWAIS110Readme">
+    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=AWAIS-MD-+v3.0+MultiDevice;Developed+by+Aoon;Give+star+and+forks+this+Repo+🌟" alt="AWAIS110Readme">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 
 <img src='https://iimgur.com/XM8Vadf.jpeg'/></a>
-<a><img src='https://iimgur.com/XM8Vadf.jpeg'/></a><a><img src='https://iimgur.com/XM8Vadf.jpeg'/></a>
+<a><img src='https://iimgur.com/XM8Vadf.jpeg'/></a><a><img src=''/></a>
 <a><img src='https://iimgur.com/XM8Vadf.jpeg'/></a>
 <h1 align="center"> JERRY-MD </h1> 
 <p align="center">JERRY-MD made for people, on Earth </p>
@@ -27,7 +27,7 @@
    
 <p align="center">
  <h2>WhatsApp channel</h2>
-  <a href="https://whatsapp.com/channel/0029VashGieHAdNP11OHXH3P" target="_blank">
+  <a href=" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Join Whatsapp Channel For Updates-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
