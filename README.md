@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<a><img src='https://i.imgur.com/XM8Vadf.jpeg'/></a>
+<a><img src=''/></a>
 
 
 <img src='https://iimgur.com/XM8Vadf.jpeg'/></a>
